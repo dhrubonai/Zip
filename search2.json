@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://github.com/consumet",
+    "name": "consumet - GitHub",
+    "snippet": "Nodejs library that provides high-level APIs for obtaining information on various entertainment media such as books, movies, comic books, anime, manga, and so on.",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.consumet.org/rest-api/Anime/animeunity/get-anime-episode-streaming-links",
+    "name": "animeunity | Streaming Links - Consumet",
+    "snippet": "Technical details regarding the usage of the get anime streaming links function for the animeunity provider can be found below. Example code is provided for both JavaScript and Python, along with a response schema.",
+    "host_name": "docs.consumet.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://hub.docker.com/r/riimuru/consumet-api",
+    "name": "riimuru/consumet-api - Docker Image",
+    "snippet": "This will start the server on port 3000. You can access the server at http://localhost:3000/ ⁠, And can change the port by changing the -p option to -p <port>:3000.",
+    "host_name": "hub.docker.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://deepwiki.com/sleeyax/stremio-consumet-addon/3.3-consumet-api-integration",
+    "name": "Consumet API Integration | sleeyax/stremio-consumet-addon",
+    "snippet": "This document covers the Consumet API integration layer that enables the Stremio addon to communicate with external content providers. The ConsumetApi class serves as the primary client for fetching anime and movie content from the Consumet API service.",
+    "host_name": "deepwiki.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://sourceforge.net/projects/consumet-ts.mirror",
+    "name": "consumet.ts download | SourceForge.net",
+    "snippet": "Consumet.ts is an API wrapper for accessing various entertainment content providers, such as anime, movies, and manga. It simplifies fetching media-related data from multiple sources using TypeScript.",
+    "host_name": "sourceforge.net",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://codesandbox.io/examples/package/@consumet/extensions",
+    "name": "@consumet/extensions examples - CodeSandbox",
+    "snippet": "Use this online @consumet/extensions playground to view and fork @consumet/extensions example apps and templates on CodeSandbox. Click any example below to run it instantly or find templates that can be used as a pre-built solution!",
+    "host_name": "codesandbox.io",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/topics/consumet-api",
+    "name": "consumet-api · GitHub Topics · GitHub",
+    "snippet": "This website is a working demonstration of an anime streaming website and is made for educational purpose only. All the data on this website is retrieved from publicly available sources.",
+    "host_name": "github.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]

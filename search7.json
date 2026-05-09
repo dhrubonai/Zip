@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.reddit.com/r/node/comments/1spxs61/live_streaming_api_like_gogoanime",
+    "name": "live streaming api like gogoanime : r/node - Reddit",
+    "snippet": "Hey everyone, I'm building a custom anime frontend (Node.js/Express) and I'm looking for a working Consumet API instance or a similar ... Missing: deploy URL 2025 anilist",
+    "host_name": "www.reddit.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/voidbornfr/voidanime",
+    "name": "voidbornfr/voidanime: Best anime X manga streaming  - GitHub",
+    "snippet": "VoidAnime. A modern, feature-rich anime streaming platform built with Next.js, showcasing advanced API integration and data mapping ...",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/topics/anime-watch?o=asc&s=stars",
+    "name": "anime-watch · GitHub Topics",
+    "snippet": "Unify anime data with the Tatakai API, offering reliable access to scraping and utility endpoints, modern caching, and efficient rate limiting ...",
+    "host_name": "github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://vercel.com",
+    "name": "Vercel: Build and deploy the best web experiences with the AI Cloud",
+    "snippet": "Build and deploy on the AI Cloud. Vercel provides the developer tools and cloud infrastructure to build, scale, and secure a faster, more personalized web. Missing: consumet instance anilist gogoanime streaming",
+    "host_name": "vercel.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://vercel.com/docs/cli/api",
+    "name": "vercel api",
+    "snippet": "The vercel api command lets you make authenticated HTTP requests to the Vercel API directly from your terminal. Missing: consumet instance 2025 anilist gogoanime streaming",
+    "host_name": "vercel.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/developersIndia/comments/1qrh33v/i_have_made_this_little_anime_streaming_website",
+    "name": "I have made this little anime streaming website with uses micro",
+    "snippet": "the anime info i get from consumet api it is open source, yes it is connected using a API, it is fetched by a anime website called ANILIST ... Missing: deploy instance 2026",
+    "host_name": "www.reddit.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://vercel.com/kb/guide/hosting-backend-apis",
+    "name": "Hosting your API on Vercel",
+    "snippet": "Learn how to build and scale performant APIs on Vercel. ... Vercel is designed to help teams quickly build, deploy, and scale web applications. Missing: consumet 2026 anilist gogoanime",
+    "host_name": "vercel.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3izAncxuO78",
+    "name": "How To Deploy on Vercel (2026 Updated Tutorial) - YouTube",
+    "snippet": "Discover the step-by-step process of how to deploy on Vercel in this 2026 updated tutorial, ensuring your web applications are live swiftly ... Missing: consumet api instance anilist gogoanime",
+    "host_name": "www.youtube.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/ErickLimaS/anime-website",
+    "name": "ErickLimaS/anime-website: AniProject: Watch Animes  - GitHub",
+    "snippet": "AniProject: Watch Animes, Read Mangas and make Comments on this website made with Next.js, TypeScript, Firebase, Anilist, Consumet and Aniwatch API.",
+    "host_name": "github.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://vercel.com/docs/cli/deploy",
+    "name": "vercel deploy",
+    "snippet": "The vercel deploy command deploys Vercel projects, executable from the project's root directory or by specifying a path. Missing: consumet instance 2025 anilist gogoanime streaming",
+    "host_name": "vercel.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

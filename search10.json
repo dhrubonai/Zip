@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://github.com/topics/anime-streaming",
+    "name": "anime-streaming · GitHub Topics · GitHub",
+    "snippet": "Open-source media server with a web interface and desktop app for anime and manga.",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://codesandbox.io/p/github/immodded/animeTV",
+    "name": "animeTV - Codesandbox",
+    "snippet": "AnimeTV is a platform that lets you explore and watch anime by fetching content from publicly accessible APIs. We donâ t store, host, or own any of the content; instead, we provide a simple, ad-free interface to browse and watch anime directly from third-party sources.",
+    "host_name": "codesandbox.io",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://animespace.vercel.app",
+    "name": "AnimeSpace",
+    "snippet": "An anime streaming app built using Nextjs Server Components. This ad-free app aims to provide a seamless experience for users who want to utilize Anilist without the need for additional browser extensions.",
+    "host_name": "animespace.vercel.app",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/topics/anime-website",
+    "name": "anime-website · GitHub Topics · GitHub",
+    "snippet": "Animetrix is a project that utilizes the Anilist platform to obtain information on various anime titles, and it combines this data with the Gogoanime API to provide ad-free streaming of anime content.",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/anime-kun32/AniTeams",
+    "name": "GitHub - anime-kun32/AniTeams: A mordern anime streaming",
+    "snippet": "A modern anime streaming platform built with Next.js 15 and Tailwind CSS, featuring AniList integration, anime bookmarking, skip intro/outro functionality, and more.",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/ErickLimaS/anime-website",
+    "name": "GitHub - ErickLimaS/anime-website: AniProject: Watch Animes",
+    "snippet": "Project of animes and mangas website, utilizing the AniList, Consumet and Aniwatch API, which has info of animes and mangas released, data of the cast of that media, and many other things.",
+    "host_name": "github.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/chirag-droid/animeflix",
+    "name": "GitHub - chirag-droid/animeflix: A anime discovery, streaming",
+    "snippet": "Animeflix - Watch animes online The open-source anime streaming service made with NextJs and TailwindCSS. It lets you search, watch animes without any ads with a beautiful ui. It can be self hosted or deployed online.",
+    "host_name": "github.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]

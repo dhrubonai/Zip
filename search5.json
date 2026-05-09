@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.jsdelivr.com/package/npm/gogoanime-api-new",
+    "name": "gogoanime-api-new CDN by jsDelivr - A CDN for npm and GitHub",
+    "snippet": "Iframe Decoder for url vidstreaming. If you don't want to directly load the video iframe in your application, you can use the decoder. api.\nA free, fast, and reliable CDN for gogoanime-api-new. Gogoanime is a custom API that provides data from the `10.gogoanime.io` website. You will have access to the entire catalog whether movies, series, current episodes, etc., with English subtitles.",
+    "host_name": "www.jsdelivr.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.blackhatworld.com/seo/can-someone-help-me-with-making-anime-sites.1341911",
+    "name": "Can someone help me with making anime sites? | BlackHatWorld",
+    "snippet": "Try scraping from websites like gogoanime and/or upload your anime content to websites such as streamtape, mp4upload, fembed and get the embed links.",
+    "host_name": "www.blackhatworld.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt",
+    "name": "2_without_easylist.txt - AdGuard",
+    "snippet": "... URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context. ! The rules with hints are at the end of ...",
+    "host_name": "filters.adtidy.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://adrules.top/adblock_lite.txt",
+    "name": "adblock_lite.txt - AdRules",
+    "snippet": "... url)\"] ###ad1[style^=\"position:\"] ###adBlockAlert ###adBlockAlertWrap ... player + #player_pic ###mv_ad_dom ###mv_float_layer ###my-adsFPR ###my_dp_a ...",
+    "host_name": "adrules.top",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt",
+    "name": "adblock_plus.txt - GitHub",
+    "snippet": "... player ###ad-popup ###ad-popup-home ###ad-popup-int ###ad-post ###ad-promo ###ad-push ###ad-pushdown ###ad-r ###ad-rec-atf ###ad-rec-btf ###ad-rec-btf-top ...",
+    "host_name": "raw.githubusercontent.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_lite.txt",
+    "name": "adblock_lite.txt - GitHub",
+    "snippet": "... adblock-player ##.adblock-stop ##.adblock-warning-partial-component ##.adblock-warning-teaser ##.adblockInfo ##.adblockOverlay ##.adblock_detector ...",
+    "host_name": "raw.githubusercontent.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://adrules.top/adblock.txt",
+    "name": "adblock.txt - AdRules",
+    "snippet": "... adblock-player ##.adblock-stop ##.adblock-warning-partial-component ##.adblock-warning-teaser ##.adblockInfo ##.adblockOverlay ##.adblock_detector ...",
+    "host_name": "adrules.top",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://raw.githubusercontent.com/xun404/adblock/main/ad-edentw.txt",
+    "name": "ad-edentw.txt - GitHub",
+    "snippet": "... iframe[id^=\"iframeWrapper-\"] onetv.cz##[class^=\"ad \"] onetv.cz##a[href*=\"Banner\"] onetv.cz##a[href*=\"pubsrcid=\"] onetv.cz##a[href*=\"banner\"] onetv.cz ...",
+    "host_name": "raw.githubusercontent.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/itspro-dev/gogoanime/blob/master/README.md",
+    "name": "GitHub",
+    "snippet": "First of all I must mention that the url of the videos work only using the iframe element.\\nTo get the videos (servers) of each chapter, you only need to use the api.animeEpisodeHandlerfunction that receives the id of the episode as a parameter.\\nTo verify the id of each episode, look at the episodes property:",
+    "host_name": "github.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/KissAnime/comments/935n5w/which_is_the_real_gogoanime_what_link_and_how_do/?onetap_auto=true&one_tap=true",
+    "name": "Which is the real gogoanime? What link? And how do we tell",
+    "snippet": "I've been watching on gogoanime.be (belgium) for the longest time and never knew there were other gogoanime sites with different domains. Initially loading a page and clicking opens up an ad on a new tab every time.",
+    "host_name": "www.reddit.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://github.com/consumet",
+    "name": "consumet - GitHub",
+    "snippet": "Nodejs library that provides high-level APIs for obtaining information on various entertainment media such as books, movies, comic books, anime, manga, and so on.",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.consumet.org/rest-api/Meta/anilist-anime/get-anime-episode-streaming-links",
+    "name": "Anilist (Anime) | Streaming Links - Consumet",
+    "snippet": "A collection of documentation for each provider available on Consumet. Find out how to efficiently use the Consumet API here!",
+    "host_name": "docs.consumet.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://api.tatakai.me",
+    "name": "Tatakai API | The Ultimate Anime Gateway",
+    "snippet": "A unified, high-performance API gateway for Anime, Manga, and Light Novels. Built for developers who demand sub-50ms latency. Powered by Hono on the edge. Advanced Redis caching strategies ensure that 95% of repeated requests are served instantly. One standard JSON structure for 10+ different providers. No more parsing chaos.",
+    "host_name": "api.tatakai.me",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://apivault.dev/categories/Anime",
+    "name": "Anime APIs List - APIVault",
+    "snippet": "Nekosia is a versatile and free anime API designed to help developers effortlessly integrate a variety of anime content into their applications, meow. Whether you need cute anime images or detailed data, Nekosia is your purr-fect solution.",
+    "host_name": "apivault.dev",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://publicapis.io/category/anime",
+    "name": "Anime - Public APIs",
+    "snippet": "Find free public REST APIs with docs, pricing, and code examples for anime development.",
+    "host_name": "publicapis.io",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://hub.docker.com/r/riimuru/consumet-api",
+    "name": "riimuru/consumet-api - Docker Image",
+    "snippet": "Open-source API that provider anime/movie streaming, and books/comics reading. Consumet provides an APIs for accessing information and links for various entertertainments like movies, books, anime, etc. Consumet scrapes data from various websites and provides APIs for accessing the data to satisfy your needs. installation is simple.",
+    "host_name": "hub.docker.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://rapidapi.com/adarsh.chouhan11/api/anime-streaming",
+    "name": "Anime Streaming - Rapid",
+    "snippet": "## Anime Streaming API A comprehensive REST API for accessing anime content, metadata, and streaming sources. Built for developers creating anime apps, websites, or services.",
+    "host_name": "rapidapi.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]

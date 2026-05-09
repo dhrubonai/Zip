@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://github.com/ghoshRitesh12/aniwatch-api/blob/main/README.md",
+    "name": "aniwatch-api/README.md at main · ghoshRitesh12  - GitHub",
+    "snippet": "Run the following commands to pull and run the docker image. The above command will start the server on port 4000. You can access the server at http://localhost:4000, and you can also change the port by changing the -p option to -p <port>:4000.",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://codesandbox.io/s/awesome-shannon-5kn7xk",
+    "name": "aniwatch-api - Codesandbox",
+    "snippet": "Explore this online aniwatch-api sandbox and experiment with it yourself using our interactive online playground. You can use it as a template to jumpstart your development with this pre-built solution.",
+    "host_name": "codesandbox.io",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://gitcode.com/gh_mirrors/an/aniwatch-api/overview",
+    "name": "aniwatch-api:Node.js API for obtaining anime information from",
+    "snippet": "Node.js API for obtaining anime information from aniwatch.to (formerly zoro.to) written in TypeScript, made with Cheerio & Axios",
+    "host_name": "gitcode.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/topics/aniwatch",
+    "name": "aniwatch · GitHub Topics · GitHub",
+    "snippet": "hianime-api is a comprehensive RESTful API that provides endpoints to retrieve anime details, episodes, and streaming links by scraping content from hianime.to.",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/ghoshRitesh12/aniwatch-api/issues/16",
+    "name": "Streaming Links endpoint not working · Issue #16  - GitHub",
+    "snippet": "Well in most cases the endpoints should work after a certain amount of downtime (consider 2 days to be max). If the downtime is more than 1 or 2 days, then option 1 is the problem, in which case please open an issue informing the same.",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/shehzadcse/hianime-api/blob/main/README.md",
+    "name": "hianime-api/README.md at main · shehzadcse/hianime-api",
+    "snippet": "This API is just an unofficial api for hianime.to and is in no other way officially related to the same. The content that this api provides is not mine, nor is it hosted by me.",
+    "host_name": "github.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/MBREDOIL/aniwatch-api",
+    "name": "GitHub - MBREDOIL/aniwatch-api: NodeJS API for obtaining",
+    "snippet": "It's optional by default, but if you want to have endpoint response caching functionality, then set the ANIWATCH_API_REDIS_CONN_URL env to a valid Redis connection URL.",
+    "host_name": "github.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]

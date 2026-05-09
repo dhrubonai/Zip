@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.reddit.com/r/KissAnime/comments/935n5w/which_is_the_real_gogoanime_what_link_and_how_do/?onetap_auto=true&one_tap=true",
+    "name": "Which is the real gogoanime? What link? And how do we tell",
+    "snippet": "Animixplay.to was (in my opinion) the best streaming service but is now shut down. For the ones on this thread still searching, they gave a link to the site they were streaming from: gogoanime.tel.",
+    "host_name": "www.reddit.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/CesarPaiz/animes-apis",
+    "name": "GitHub - CesarPaiz/animes-apis: Simple Express.js API",
+    "snippet": "Simple Express.js API designed to fetch anime episode information from Gogoanime, including embeds, m3u8 links (360p, 480p, 720p & 1080p), and direct mp4 download URLs.",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.w3schools.com/tags/tag_iframe.asp",
+    "name": "HTML iframe tag - W3Schools",
+    "snippet": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more.",
+    "host_name": "www.w3schools.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://gitlab.com/RNGDebeloper/gogoanime-api",
+    "name": "RNGDebeloper / gogoanime-api · GitLab",
+    "snippet": "Anime Streaming, Discovery API made with Cheerio and Express. Uses data from Gogoanime",
+    "host_name": "gitlab.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.dacast.com/blog/how-to-embed-streaming-video-to-your-website",
+    "name": "How to Embed Live Streaming Video on Your Website in 2026",
+    "snippet": "Learn how to embed live-streaming video on your website in 2026 with Dacast—boost SEO, stay mobile-friendly, and avoid common mistakes.",
+    "host_name": "www.dacast.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.geeksforgeeks.org/html/how-to-embed-video-in-iframe-in-html",
+    "name": "How to Embed Video in Iframe in HTML? - GeeksforGeeks",
+    "snippet": "Let's see how we can embed the video in the iframe. To embed a video, use the iframe tag with the video's URL. Set the width, height, and necessary attributes like allowfullscreen for full-screen support and frameborder for no border.",
+    "host_name": "www.geeksforgeeks.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.vdocipher.com/blog/how-to-embed-video-in-html",
+    "name": "How to Embed Video in HTML Using iframe or Video Tag Element",
+    "snippet": "This article describes multiple ways to embed video in HTML documents using iframe and embed video player using video tag.",
+    "host_name": "www.vdocipher.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]

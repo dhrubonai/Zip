@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://github.com/chirag-droid/animeflix",
+    "name": "GitHub - chirag-droid/animeflix: A anime discovery, streaming",
+    "snippet": "Animeflix - Watch animes online The open-source anime streaming service made with NextJs and TailwindCSS. It lets you search, watch animes without any ads with a beautiful ui. It can be self hosted or deployed online.",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.consumet.org/rest-api/Meta/anilist-anime/get-anime-episode-streaming-links",
+    "name": "Anilist (Anime) | Streaming Links - Consumet",
+    "snippet": "Technical details regarding the usage of the get anime streaming links function for the anilist meta provider can be found below. Example code is provided for both JavaScript and Python, along with a response schema.",
+    "host_name": "docs.consumet.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://codesandbox.io/s/animeflix-zw15c",
+    "name": "animeflix - Codesandbox",
+    "snippet": "Explore this online animeflix sandbox and experiment with it yourself using our interactive online playground. You can use it as a template to jumpstart your development with this pre-built solution.",
+    "host_name": "codesandbox.io",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/exploitedfromluck/animeflix/blob/main/packages/api/src/gogoanime.ts",
+    "name": "animeflix/packages/api/src/gogoanime.ts at main  - GitHub",
+    "snippet": "A anime discovery, streaming site made with NextJs and TailwindCSS. Uses AniList API and video data from GogoAnime. No ads and no vpn required - animeflix/packages/api/src/gogoanime.ts at main · exploitedfromluck/animeflix.",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/exploitedfromluck/animeflix",
+    "name": "GitHub - exploitedfromluck/animeflix: A anime discovery",
+    "snippet": "Animeflix - Watch animes online The open-source anime streaming service made with NextJs and TailwindCSS. It lets you search, watch animes without any ads with a beautiful ui. It can be self hosted or deployed online.",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/topics/gogoanime-api",
+    "name": "gogoanime-api · GitHub Topics · GitHub",
+    "snippet": "Stream your favorite anime titles in sync with friends and explore a vast library of series and movies. Join our vibrant community for an unforgettable anime-watching experience!",
+    "host_name": "github.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.consumet.org",
+    "name": "Introduction - Consumet",
+    "snippet": "Welcome to the documentation for Consumet - a collection of high-level, search engine APIs that provide accurate information about numerous entertainment mediums (such as anime, manga, light novels, movies etc.), along with links to stream these contents from publicly-available online sources.",
+    "host_name": "docs.consumet.org",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]

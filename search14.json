@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://github.com/topics/vidsrc",
+    "name": "vidsrc · GitHub Topics · GitHub",
+    "snippet": "AniMovie is an open-source movie, anime, and manga streaming platform that integrates TMDB, AniList, and VidSrc APIs to deliver ad-free HD streaming, full metadata, and a unified discovery experience for films, shows, and series.",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dev.to/debrone/i-built-a-movie-streaming-site-in-48-hours-heres-how-it-went-42g8",
+    "name": "I Built a Movie Streaming Site in 48 Hours - DEV Community",
+    "snippet": "I set myself a 48-hour challenge to build a movie streaming site. No backend, no databases—just React for the frontend, and some APIs to pull in movie data and handle streaming.",
+    "host_name": "dev.to",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/Piracy/comments/16ue1xe/best_streaming_api",
+    "name": "Best streaming API : r/Piracy - Reddit",
+    "snippet": "I'm now using Sourcevid (Thenext.video/fkzgm) and Superembed (Thenext.video/fkyor) but I want to find more sources (with less ads) in case these ones are not working anymore. Thank you! vidsrc.me has been around literally forever. You'll be fine. I'm looking for several streaming API. So far I used 2embed but the website went down few month ago.",
+    "host_name": "www.reddit.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://microsoftedge.microsoft.com/addons/detail/bjjknjphjafpphknnljjeocmfbleblip",
+    "name": "VidSrc Quick Launcher (IMDb & TMDB) - Microsoft Edge Add-ons",
+    "snippet": "This extension allows users to quickly generate VidSrc streaming links using movie/TV show IDs from IMDb and TMDB. Quickly launch VidSrc streams using IMDb or TMDB IDs.",
+    "host_name": "microsoftedge.microsoft.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://deepwiki.com/cool-dev-guy/vidsrc.ts/6.1-api-reference",
+    "name": "API Reference | cool-dev-guy/vidsrc.ts | DeepWiki",
+    "snippet": "This document provides the complete API reference for the vidsrc.ts module, including all function signatures, interfaces, types, and return value specifications.",
+    "host_name": "deepwiki.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://devdojo.com/post/fahadislam/best-free-anime-api-resources",
+    "name": "Best Free Anime API Resources - DevDojo",
+    "snippet": "The AniList GraphQL API provides quick and powerful access to over 500k anime and manga entries, including character, staff, and live airing data. DigitalOcean offers a simple and reliable cloud hosting solution that enables developers to get their website or application up and running quickly.",
+    "host_name": "devdojo.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/topics/vidsrc-api?o=desc&s=updated",
+    "name": "vidsrc-api · GitHub Topics · GitHub",
+    "snippet": "VidSrc Streamer is a Python application designed to simplify the process of fetching direct stream URLs for movies based on IMDb IDs from the VidSrc website. Add a description, image, and links to the vidsrc-api topic page so that developers can more easily learn about it.",
+    "host_name": "github.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]
